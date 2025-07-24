@@ -66,3 +66,7 @@ Another senior manager reporting to me had a direct report who was severely unde
 ### Managing Up
 
 A key non-technical product manager overhead a very influential customer say the phrase "I don't want a UI, I want an SDK." The product manager took this literally and began to advocate for the dismantling of what my team had built. I reached out to the customer for more context and discovered that what they were referring to was wanting an SDK to use while building the model, not while spinning up infrastructure. They loved the UI. I approached the PM with context, humbly, to educate them on the model development lifecycle within our org, where the UI fit in, and where the SDK fit in. The end result was my team owning the UI, the API, and the SDK.
+
+### Managing Delivery (and Hype)
+
+At the scale of this organization, it was critical to have alignment on timelines, priorities, and contracts as early and often as possible. The process, as I'm sure everyone in tech knows, is one of the least enjoyable experiences for development teams. After seeing the first iteration of this planning turn south quickly, I offered to be the "Hype Man" for the next one, and bring some of my personal brand of entertainment to the equation. We had the most active and engaging sessions among peer organizations within the company. Our commitments and plans began hitting the metrics we needed for predictability and successful delivery.
