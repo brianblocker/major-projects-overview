@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Machine Learning Platform"
+permalink: /machine-learning-platform/
+---
+
 # Machine Learning Platform
 
 ## Overview
