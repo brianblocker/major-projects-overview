@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Model Explainability"
+permalink: /model-explainability/
+---
+
 ## Project - Model Explainability Tool
 
 ### Role & Tech
